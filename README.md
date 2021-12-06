@@ -1,9 +1,5 @@
 # TO DO APP WITH REACTJS
-> This Project is a ReactJS App that allow users to add items to the ToDo List
->- Creating an input form 
->- Communicating between parent and child
->- Using Bootstrap5 along with React
-
+> A simple project to familiarize myself with creating ReactJS Apps
 
 # Installation
 >  Clone the project into local
