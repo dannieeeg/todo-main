@@ -1,0 +1,70 @@
+
+body {
+  background:linear-gradient(to right, #d9b18e, #f2f1ef);
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  color: #07203f;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+ 
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.app {
+
+ 
+  background: linear-gradient(to right, #d9b18e, #f2f1ef); 
+  padding: 30px;
+  height: 100vh;
+  
+}
+
+.todo-list{
+  background: #fff;
+  border-radius: 15px;
+  padding: 50px;
+  max-width: 500px;
+  margin:0 auto;
+  
+ 
+}
+
+.todo{
+ background: #07203f;
+  color: bisque;
+  text-shadow: none;
+  box-shadow: 1px 1px 1px rgba(0,0,0, 0.15);
+  padding: 3px 10px;
+  font-size: 24px;
+  margin-bottom: 12px;
+  border-radius: 3px;
+  display:flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.todo:hover{
+  background: lightgoldenrodyellow;
+  color: #07203f;
+}
+
+.input{
+  width: 100%;
+  box-sizing: border-box;
+  margin-bottom: 30px;
+}
+
+.btn{
+  padding-top:0;
+  margin-left:0;
+}
+
+i{
+  color:#fff;
+}
+
+
